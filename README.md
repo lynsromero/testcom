@@ -1,4 +1,4 @@
-# 🌱 goGreen 
+# 🌱 TestCom 
 
 With **goGreen**, you can make your profile look like you've been hard at work... even if you haven't. 
 NodeJs script to make commits to the past (or the future) to go green on GitHub.
@@ -13,8 +13,8 @@ Follow these steps to bring your contribution graph to life:
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/fenrir2608/goGreen.git
-cd goGreen
+git clone https://github.com/lynsromero/testcom.git
+cd testcom
 ```
 3. **Set up your project**
 Initialize a new Node.js project:
